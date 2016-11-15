@@ -1,0 +1,59 @@
+NAME: Muhammad Bilal Yousaf Khan
+UOB: 14031236
+
+Q1.
+   There is no error in this question.
+	public class Hellow World
+	{
+		public static void main(String[] args);
+		{
+			int a=15;
+			if(a==15)
+			{
+				System.out.println("dsds");
+			}
+		}
+	}
+
+Q2.
+   In this question,there is a error called runtime because we can not divide any number with 0.
+	public class Hellow World
+	{
+		public static void main(String[] args);
+		{
+			System.out.print(100/2);
+		}
+	}
+Q3.
+  Here the error is Syntax error because the actual word is System not a Sytem.
+      	public class Hellow World
+	{
+		public static void main(String[] args);
+		{
+			System.out.print(100/100);
+		}
+	}
+
+Q4.
+  In java, we have to initialize every variable before we used this.
+	public class Hellow World
+	{
+		public static void main(String[] args);
+		{
+			int a=10,b=15;
+			System.out.print(a+" "b);
+		}
+	}
+Q5.
+  The first error is run time, because there is no static word in main method so we have to write this.
+  Again in java, we have to declare every variable before we used.
+      	public class Hellow World
+	{
+		public static void main(String[] args);
+		{
+			int a=15;
+			int b=16;
+			int c=a+b;
+			System.out.print(c);
+		}
+	}
